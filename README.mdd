@@ -1,0 +1,10 @@
+Simple Calculator
+
+Purpose of the Project
+This project is a graphical calculator application built using Python and Tkinter. It aims to provide users with a straightforward tool for 
+performing basic mathematical operations through an interactive, GUI-based interface.
+
+Features
+Basic Operations: Includes addition, subtraction, multiplication, division, and modulus.
+Clear Function: A "CLEAR" button to reset the current input.
+Evaluate Expressions: Allows users to enter expressions and get instant results with the = button.
